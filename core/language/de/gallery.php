@@ -204,6 +204,7 @@ $lang = array_merge($lang, array(
 
 	'QUOTA_REACHED'					=> 'Die Anzahl der Bilder, die du hochladen kannst, wurde erreicht.',
 	'QUOTE_COMMENT'					=> 'Kommentar zitieren',
+	'QUICK_MOD'						=> 'Schnell-Moderation',
 
 	'RANDOM_IMAGES'					=> 'Zufällige Bilder',
 	'RATE_IMAGE'					=> 'Bild bewerten',
@@ -312,6 +313,7 @@ $lang = array_merge($lang, array(
 	),
 	'USERNAME_BEGINS_WITH'			=> 'Benutzername fängt an mit',
 	'USERS_PERSONAL_ALBUMS'			=> 'Persönliche Alben der Mitglieder',
+	'VISIT_GALLERY'					=> 'Benutzer-Galerie besuchen',
 
 	'VIEW_ALBUM'					=> 'Album ansehen',
 	'VIEW_ALBUM_IMAGES'				=> array(
